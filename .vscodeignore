@@ -1,6 +1,7 @@
 .vscode/**
 .vscode-test/**
 AGENTS.md
+media/readme-nanami.jpg
 out/test/**
 src/**
 .gitignore
